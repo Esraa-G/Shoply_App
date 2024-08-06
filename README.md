@@ -1,4 +1,4 @@
-# [Shoply]
+# Shoply
 
 ## Introduction
 Shoply is a comprehensive online shopping app designed to provide essential daily needs with an easy checkout process and speedy delivery.
